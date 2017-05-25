@@ -6,6 +6,7 @@ The '%' operator and 'for loop' is used in Java Script to compute the sum of the
 
 Below is the Java Script Code 
 
+<code>
 var calButton = document.getElementById('btn'); //Selects the button
 
 //The function that does the compution when the button is clicked
@@ -26,3 +27,4 @@ calButton.onclick = function(){
 
 	}
 }
+</code>
