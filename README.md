@@ -7,7 +7,7 @@ The '%' operator and 'for loop' is used in Java Script to compute the sum of the
 Below is the Java Script Code 
 
 ```
-js
+The Java script CODE
 
 var calButton = document.getElementById('btn'); //Selects the button
 
@@ -26,4 +26,4 @@ calButton.onclick = function(){
 }
 
 ```
-
+The final project can be found at https://robtak.github.io/Project-Euler-1/ . Check it out see how the final project looks like.
